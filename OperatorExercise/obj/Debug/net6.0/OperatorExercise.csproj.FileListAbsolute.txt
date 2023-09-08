@@ -1,0 +1,5 @@
+C:\Users\James\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.AssemblyReference.cache
+C:\Users\James\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\James\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.CoreCompileInputs.cache
